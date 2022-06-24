@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["083171252216@s.whatsapp.net","089520654466@s.whatsapp.net"],
+    "ownerName": "own raichabot",
+    "instagram" : "https://instagram.com/menggsmail",
+    "botName": "raichakawai V3 -botmd ",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
